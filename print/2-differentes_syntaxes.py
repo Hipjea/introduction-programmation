@@ -15,3 +15,7 @@ print("{}{} {}".format(salutation, ",", nom))
 
 # 5. utilisation d'un placeholder nommé :
 print("{salut}{virgule} {nom}".format(salut=salutation, virgule=",", nom=nom))
+
+# 6. préparation d'une phrase en stockant dans une variable avant affichage :
+phrase = "{salut}{virgule} {nom}".format(salut=salutation, virgule=",", nom=nom)
+print(phrase)
