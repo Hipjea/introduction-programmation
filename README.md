@@ -1,6 +1,14 @@
-# Introduction à la programmation
+Introduction à la programmation
+===
 
 Compléments au cours d'**Introduction à la programmation** du [DAEU SONATE](https://daeu-sonate.fr/).
+
+## Table des matières
+
+1. [Print](./print/)
+2. [Types de données](./types-de-donnees/)
+3. [Modulo](./modulo/)
+4. [Boucles](./boucles/)
 
 ## Comment utiliser ce dépôt ?
 
@@ -15,11 +23,3 @@ Compléments au cours d'**Introduction à la programmation** du [DAEU SONATE](ht
 4. En créant un fork du dépôt sur votre compte Github via le bouton *Fork* :
 
 [<img src="./screenshot-2.png" width="100px">](https://github.com/Hipjea/introduction-programmation/fork)
-
-
-## Table des matières
-
-1. [Print](./print/)
-2. [Types de données](./types-de-donnees/)
-3. [Modulo](./modulo/)
-4. [Boucles](./boucles/)
