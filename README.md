@@ -9,6 +9,7 @@ Compléments au cours d'**Introduction à la programmation** du [DAEU SONATE](ht
 2. [Types de données](./types-de-donnees/)
 3. [Modulo](./modulo/)
 4. [Boucles](./boucles/)
+5. [Fichiers](./fichiers/)
 
 ## Comment utiliser ce dépôt ?
 

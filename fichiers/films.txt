@@ -1,0 +1,8 @@
+1;Forrest Gump;1994
+2;La Liste de Schindler;1994
+3;La Ligne verte;2000
+4;12 hommes en colère;1957
+5;Le Parrain;1972
+6;Les Evadés;1995
+7;Le Seigneur des anneaux : le retour du roi;2003
+8;Le Roi Lion;1994
